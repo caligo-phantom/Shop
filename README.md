@@ -32,6 +32,6 @@ You have 140 coins
 ```
 Now we can buy the "Fruitful Flag".<br>
 The flag is given as [112 105 99 111 67 84 70 123 98 52 100 95 98 114 111 103 114 97 109 109 101 114 95 53 51 50 98 99 100 57 56 125]<br>
-This clearly an ASCII code which can be converted to plaintext to get the flag.
+This is clearly an ASCII code which can be converted to plaintext to get the flag.
 ## Flag
 picoCTF{b4d_brogrammer_532bcd98}
